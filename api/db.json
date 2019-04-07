@@ -1,0 +1,118 @@
+{
+  "book": [
+    {
+      "kitapismi": "a",
+      "yazar": "a",
+      "yayınevi": "a",
+      "id": 1
+    },
+    {
+      "kitapismi": "b",
+      "yazar": "b",
+      "yayınevi": "b",
+      "id": 2
+    },
+    {
+      "kitapismi": "c",
+      "yazar": "c",
+      "yayınevi": "d",
+      "id": 3
+    },
+    {
+      "kitapismi": "e",
+      "yazar": "e",
+      "yayınevi": "e",
+      "id": 4
+    },
+    {
+      "kitapismi": "f",
+      "yazar": "f",
+      "yayınevi": "f",
+      "id": 5
+    },
+    {
+      "kitapismi": "g",
+      "yazar": "g",
+      "yayınevi": "g",
+      "id": 6
+    },
+    {
+      "kitapismi": "h",
+      "yazar": "h",
+      "yayınevi": "h",
+      "id": 7
+    },
+    {
+      "kitapismi": "ı",
+      "yazar": "ı",
+      "yayınevi": "ı",
+      "id": 8
+    },
+    {
+      "kitapismi": "i",
+      "yazar": "i",
+      "yayınevi": "i",
+      "id": 9
+    },
+    {
+      "kitapismi": "j",
+      "yazar": "j",
+      "yayınevi": "j",
+      "id": 10
+    },
+    {
+      "kitapismi": "k",
+      "yazar": "k",
+      "yayınevi": "k",
+      "id": 11
+    },
+    {
+      "kitapismi": "l",
+      "yazar": "l",
+      "yayınevi": "l",
+      "id": 12
+    },
+    {
+      "kitapismi": "m",
+      "yazar": "m",
+      "yayınevi": "m",
+      "id": 13
+    },
+    {
+      "kitapismi": "n",
+      "yazar": "n",
+      "yayınevi": "n",
+      "id": 14
+    },
+    {
+      "kitapismi": "o",
+      "yazar": "o",
+      "yayınevi": "o",
+      "id": 15
+    },
+    {
+      "kitapismi": "p",
+      "yazar": "p",
+      "yayınevi": "p",
+      "id": 16
+    },
+    {
+      "kitapismi": "r",
+      "yazar": "r",
+      "yayınevi": "r",
+      "id": 17
+    },
+    {
+      "kitapismi": "s",
+      "yazar": "s",
+      "yayınevi": "s",
+      "id": 18
+    },
+    {
+      "kitapismi": "t",
+      "yazar": "t",
+      "yayınevi": "t",
+      "id": 19
+    }
+  ]
+}
